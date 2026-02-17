@@ -25,7 +25,7 @@ You have to manually do this process and you may find it exhausting to do and re
 You can use [`cargo`](https://doc.rust-lang.org/cargo/) to install the CLI globally.
 
 ```sh
-cargo install --git https://github.com/Vexcited/bw2ssh
+cargo install --git https://seed.vexcited.com/z3R6nHv6KaM8MpVuXPwbttyCcc4Zo.git
 ```
 
 You also need the [Bitwarden CLI](https://bitwarden.com/help/cli/#download-and-install) since we're using it to pull the SSH keys and custom fields.
