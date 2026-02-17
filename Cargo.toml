@@ -1,0 +1,10 @@
+[package]
+name = "bw2ssh"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.5.59", features = ["derive"] }
+serde = { version = "1.0.228", features = ["derive"] }
+serde_json = "1.0.149"
+sha2 = "0.10.9"
